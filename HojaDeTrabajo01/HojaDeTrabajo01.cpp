@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-    cout << "Sebastian Morales 1057123 !\n";
+    cout << "Sebastian Alejandro Morales de la Cruz 1057123 !\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu

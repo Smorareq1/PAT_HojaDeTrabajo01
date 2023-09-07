@@ -8,7 +8,15 @@ using namespace std;
 bool Ejercicio03::isPowerOfTwo(int n)
 {   
     int nabs = abs(n);
-    log
-    
-    if(log_2nabs == floor(log_2nabs))
+    double log = log2(nabs);
+
+    if (n == 0) {
+        return false;
+    }
+    if (log == floor(log)) {
+        return true;
+    }
+    else {
+        return false;
+    }
 }
